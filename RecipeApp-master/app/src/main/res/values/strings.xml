@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">RecipeApp</string>
+    <string name="user">E-mail</string>
+    <string name="enter_username">Enter your e-mail</string>
+    <string name="password">Password</string>
+    <string name="pass">Enter your password</string>
+    <string name="sign_in">Login</string>
+    <string name="don_t_have_an_account">don\'t have an account ?</string>
+    <string name="sign_up">SignUp</string>
+    <string name="SERVER_URL">https://parseapi.back4app.com</string>
+    <string name="APPLICATION_ID">x46QEGEcJk9a5xWnLSX502JjTj2UYL0y5h1lxL15</string>
+    <string name="CLIENT_KEY">AhqeAQH9LnbjaeP1NZs49yvU2Z1sKiBEarZmPeT4</string>
+    <string name="confirm_your_password">Confirm Your Password</string>
+    <string name="confirm">Confirm</string>
+    <string name="sign">Save</string>
+    <string name="already_have_account">Already have account!</string>
+</resources>
